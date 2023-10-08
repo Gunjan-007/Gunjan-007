@@ -1,4 +1,4 @@
-[![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/07/12140908/cloud-computing.gif)](https://gunjan.io)
+[![MasterHead](https://www.cloudopedia.in/wp-content/uploads/2019/03/cloud-computing-GIF.gif)](https://gunjan.io)
 <h1 align="center">Hi 👋, I'm Gunjan Chakraborty</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
