@@ -1,4 +1,5 @@
-[![MasterHead](https://www.cloudopedia.in/wp-content/uploads/2019/03/cloud-computing-GIF.gif)](https://gunjan.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*2-b5UkCIf7iF0eCTc-DFeQ.gif)](https://gunjan.io)
+
 <h1 align="center">Hi 👋, I'm Gunjan Chakraborty</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
@@ -15,7 +16,7 @@
 
 - 📫 How to reach me **cgunjan2001@gmail.com**
 
-- ⚡ Fun fact **I love Anime !!!**
+- ⚡ Fun fact : **I love Anime !!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
