@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **AWS Clous Services**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Gunjan-007/Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://gunjan-007.github.io/Portfolio/)
 
 - 💬 Ask me about **Python & AWS**
 
