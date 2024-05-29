@@ -1,18 +1,18 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*2-b5UkCIf7iF0eCTc-DFeQ.gif)](https://gunjan.io)
 
 <h1 align="center">Hi 👋, I'm Gunjan Chakraborty</h1>
-<h3 align="center">An passionate AWS Clous Solution Architect and Data Scientist from India</h3>
+<h3 align="center">An passionate AWS Clous Architect and Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjan-007&label=Profile%20views&color=0e75b6&style=flat" alt="gunjan-007" /> </p>
 <img align="right" alt="coding" width="400" src="https://whiteappletechnologies.com/wp-content/uploads/2020/10/Cloud_computing_trends1554725958824-1.gif">
 
-- 🔭 I’m currently working on **Malware Detection**
+- 🔭 I’m currently working on **Chatbot**
 
 - 🌱 I’m currently learning **AWS Clous Services**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Gunjan-007](https://github.com/Gunjan-007?tab=repositories)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/Gunjan-007/Portfolio)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python & AWS**
 
 - 📫 How to reach me **cgunjan2001@gmail.com**
 
