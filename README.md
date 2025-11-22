@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gunjan-007&label=Profile%20views&color=0e75b6&style=flat" alt="gunjan-007" /> </p>
 <img align="right" alt="coding" width="400" src="https://whiteappletechnologies.com/wp-content/uploads/2020/10/Cloud_computing_trends1554725958824-1.gif">
 
-- 🔭 I’m currently working on **Chatbot**
+- 🔭 I’m currently working on **AWS pipeline automation**
 
 - 🌱 I’m currently learning **AWS Clous Services**
 
